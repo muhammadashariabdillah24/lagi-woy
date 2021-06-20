@@ -8,3 +8,7 @@ text-align: 5;
 ol {
     background-color: blueviolet;
 }
+
+li {
+    text-transform: none;
+}
