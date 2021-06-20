@@ -16,3 +16,7 @@ li {
 div {
 background: red;
 }
+
+article{
+    background-attachment: fixed;
+}
