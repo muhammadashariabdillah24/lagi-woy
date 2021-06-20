@@ -12,3 +12,7 @@ ol {
 li {
     text-transform: none;
 }
+
+div {
+background: red;
+}
